@@ -1,3 +1,5 @@
-dora l'exploratrice
-ne sent pas bon
-chipeur arrête de chiper
+Dora l'exploratrice.
+Ne sent pas bon,
+chipeur arrête de chiper.
+
+Alice pense que ce TP est instructif.
